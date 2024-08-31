@@ -1,0 +1,7 @@
+4 = scroll down 1px
+5 = scroll up 1px
+6 = scroll up 500px
+7 = pause/resume
+8 = go back 1 click
+9 = reopen last
+esc = stop playing current

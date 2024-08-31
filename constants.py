@@ -9,6 +9,5 @@ TOASTER_SETTINGS = {
     'icon_path': 'icons/mouse.ico',   # Path to an icon file (.ico)
     'duration': 3,                    # Duration in seconds before the toast disappears
     'threaded': True,                  # Display the toast in a separate thread
-    'sound': True,                     # Play a sound with the notification
 }
 APP_BG = 'lightblue'
